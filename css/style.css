@@ -227,13 +227,13 @@ body {
 
 .main_content {
   text-align: right;
-  /* position:  absolute;*/
+  position:  absolute;
   height: 100%;
   /* width: calc(100% - 240px);
     left: 275px;*/
 }
 .main_content .text {
-  text-align: right;
+  text-align: center;
   align-items: right;
   font-size: 25px;
   font-weight: 800;
