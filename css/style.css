@@ -234,9 +234,8 @@ body {
 }
 .main_content .text {
   text-align: right;
+  align-items: right;
   font-size: 25px;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   font-weight: 800;
   color: #1d1b31;
   margin-top: 10px;
