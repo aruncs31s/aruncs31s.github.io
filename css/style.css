@@ -234,7 +234,7 @@ body {
 }
 .main_content .text {
   text-align: center;
-  align-items: right;
+  align-items: justify;
   font-size: 25px;
   margin-top: 10px;
 }
