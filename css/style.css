@@ -226,7 +226,7 @@ body {
 }
 
 .main_content {
-  text-align: right;
+/*  text-align: right;*/
   position:  absolute;
   height: 100%;
   width: calc(100% - 240px);
