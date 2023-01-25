@@ -20,7 +20,7 @@ body {
 .sidebar {
   position: fixed;
   height: 100%;
-  width: 14%;
+  width: 20%;
   background: rgb(0, 0, 0);
   top: 0;
   left: 0;
@@ -226,18 +226,21 @@ body {
 }
 
 .main_content {
-/*  text-align: right;*/
-  position:  absolute;
+ text-align: center;
+ margin-left: 20px;
+ 
+/*  position:  absolute;
   height: 100%;
-  width: calc(100% - 240px);
-  /*  left: 275px;*/
+/*  width: calc(100% - 240px);
+    left: 275px;*/
 }
-.main_content .text {
+.main_content .heading {
   text-align: center;
   align-items: justify;
   font-size: 25px;
   margin-top: 10px;
 }
+
 
 .sidebar .links_name {
   opacity: 0;
